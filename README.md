@@ -1,4 +1,4 @@
-# vanillaDAG
+# VanillaPythonDAG
 
 A minimal Python orchestrator built on graphs, explicit dependencies, and pure functions.  
 No framework. No magic.
